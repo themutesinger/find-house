@@ -1,0 +1,6 @@
+https://lalafo.kg/kyrgyzstan/zemelnye-uchastki?currency=USD&price[to]=1000000000&parameters[71][to]=100000000&page=2
+https://lalafo.kg/api/search/v3/feed/search?category_id=2037&currency=USD&expand=url&parameters%5B71%5D%5Bto%5D=100000000&price%5Bto%5D=1000000000&page=2
+https://lalafo.kg/api/search/v3/feed/search?category_id=2037&currency=USD&expand=url&parameters%5B71%5D%5Bfrom%5D=65&parameters%5B71%5D%5Bto%5D=5656&price%5Bfrom%5D=556&price%5Bto%5D=525757&page=2
+
+parameters%5B71%5D%5Bfrom%5D=65 area from
+parameters%5B71%5D%5Bto%5D=5656 area to
